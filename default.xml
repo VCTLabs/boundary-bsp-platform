@@ -28,6 +28,6 @@
   <project remote="meta-qt5-repo" name="meta-qt5" path="sources/meta-qt5" revision="morty" />
   <project remote="boundary" name="meta-boundary" path="sources/meta-boundary" revision="morty" />
   <project remote="vct" revision="morty" name="meta-printing" path="sources/meta-printing"/>
-  <project remote="sla" revision="master" name="meta-small-arm-extra" path="sources/meta-small-arm-extra"/>
+  <project remote="sla" revision="morty" name="meta-small-arm-extra" path="sources/meta-small-arm-extra"/>
 
 </manifest>
